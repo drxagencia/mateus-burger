@@ -2,7 +2,7 @@
 
 // O ID da empresa que será carregado do banco de dados.
 // Deve ser IGUAL à chave no seu JSON (ex: "universo_acai")
-export const DEFAULT_COMPANY_ID = "universo_acai";
+export const DEFAULT_COMPANY_ID = "mateus_burger";
 
 export const getCompanyIdFromUrl = (): string => {
   // Retorna SEMPRE o ID configurado acima, ignorando a URL do site.
