@@ -1,0 +1,5 @@
+{
+  "name": "FlexOrder - Pedidos Online",
+  "description": "Plataforma de pedidos universal baseada em JSON para delivery.",
+  "requestFramePermissions": []
+}
